@@ -13,7 +13,7 @@
 ## 📖 Ressourcen
 
 - [![Anleitungen Ansehen](https://img.shields.io/badge/Anleitungen_Ansehen-JETZT-00cc00?style=rounded&labelColor=1a1a1a)](https://github.com/CreativeProHub/CorelDRAW-Art-2025)
-- [![Support Starten](https://img.shields.io/badge/Support_Starten-JETZT-00cc00?style=rounded&labelColor=1a1a1a)](https://github.com/CreativeProHub/CorelDRAW-Art-2025)
+- [![Support Starten](https://img.shields.io/badge/Support_Starten-JETZT-00cc00?style=rounded&labelColor=1a1a1a)](https://github.com/CreativeProHub/.github)
 
 ---
 
